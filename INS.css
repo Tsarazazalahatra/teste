@@ -1,0 +1,80 @@
+body{
+    background-color:rgba(255, 255, 255, 0.527);
+    background-size: cover;
+    font: size 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:PINK;
+}
+marquee{
+    color:red;
+    font-size: 50px;
+    font-style: oblique;
+    font-display:initial;
+    animation-fill-mode: both;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: aqua;
+    box-shadow: 5px;
+    text-shadow: 20px;
+}
+TABLE{
+    background-color: transparent;
+    border-radius: 20PX;
+    border-style: solid;
+    border-color: darkgray;
+}
+.login{
+    font-size: 50px;
+    color:darkred;
+    font-style:oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 300px;
+}
+a{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+background-color: beige;
+width: 300px;
+}
+.oi{
+    COLOR:red;
+    font-size: medium;
+    background-color: beige;
+    font-size: x-large;
+}
+
+.CONN{
+    font-size: small;
+    color:white;
+    background-color:blue;
+    width: 300px;
+    cursor:pointer;
+    border-style: double;
+    border-radius: 20px;
+    height: 30px;
+
+}
+.Adresse{
+    border-radius: 15px;
+    border-style: solid;
+    width:300px;
+    height:20px;
+}
+.name{
+    border-radius: 15px;
+    border-style: solid;
+    width:300px;
+    height:20px
+}
+.mdp{
+    border-radius: 15px;
+    border-style: solid;
+    width:300px;
+    height:20px
+}
+.popup{
+ width: 400px;
+ background-color: aqua
+ 
+
+};
